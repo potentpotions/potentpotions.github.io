@@ -1,13 +1,7 @@
 import Link from 'next/link'
 import style from './index.module.scss'
 export default function Home() {
-  /**
-   * construction page
-   * need custom font setup
-   * need logo
-   * need background pattern
-   * need copy 
-   */
+
   return (
     <div className={style.parent}>
       <div className={style.content}>
