@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={style.parent}>
       <div className={style.content}>
-        <img src="logo/logo.webp" style={{maxWidth:'60vw', minWidth: '20vw'}}/>
+        <img src="logo/logo.webp" alt='Potent Potions Logo' style={{maxWidth:'60vw', minWidth: '20vw'}}/>
         <br/>
         We are currently under construction...
         <br />
